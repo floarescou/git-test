@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92978b91-ffa3-45d6-860f-fd0535e5548e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/les-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/les-1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756375204259</updated>
-      <workItem from="1756375207469" duration="2128000" />
+      <workItem from="1756375207469" duration="2623000" />
+      <workItem from="1756382357045" duration="908000" />
     </task>
     <servers />
   </component>
@@ -62,7 +65,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
